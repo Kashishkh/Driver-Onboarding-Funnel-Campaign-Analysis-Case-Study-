@@ -45,11 +45,6 @@ the fix is now built into the shared function so it can't recur.
   level — each attempt generates two raw rows (an upload event and a verification
   outcome), and grouping by row instead of by captain silently halves the true rate.
 
-## Scope note: Part B
-
-Part B (airport supply) is optional for the Data Science Internship track and is
-intentionally not covered in these notebooks, to keep the analysis within the
-~5-hour budget for the required Part A deliverables.
 
 ## Deliverables map
 
